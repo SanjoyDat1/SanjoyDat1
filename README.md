@@ -34,29 +34,11 @@ const sanjoy: Developer = {
 
 ---
 
-## GitHub Stats
+<div align="leading">
 
-<div align="center">
-
-<!-- Stats Card -->
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=SanjoyDat1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=1565C0&icon_color=1976D2&text_color=0d2137&ring_color=1565C0" />
 
 <!-- Top Languages -->
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjoyDat1&layout=donut&langs_count=6&hide_border=true&bg_color=ffffff&title_color=1565C0&text_color=0d2137" />
-
-</div>
-
-<div align="center">
-
-<!-- Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=SanjoyDat1&theme=default&hide_border=true&background=FFFFFF&stroke=1565C0&ring=1565C0&fire=1976D2&currStreakLabel=1565C0&sideLabels=1565C0&dates=64748b&sideNums=0d2137&currStreakNum=1565C0)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-<!-- GitHub Grade / Trophy -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=SanjoyDat1&theme=flat&no-frame=true&column=6&margin-w=8&title_color=1565C0)](https://github.com/ryo-ma/github-profile-trophy)
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjoyDat1&layout=donut&langs_count=6&hide_border=true&bg_color=ffffff&title_color=1565C0&text_color=0d2137" />
 
 </div>
 
@@ -64,36 +46,41 @@ const sanjoy: Developer = {
 
 ## Tech Stack
 
-**Frontend**
-![React](https://img.shields.io/badge/React-EFF6FF?style=flat-square&logo=react&logoColor=1565C0)
-![Next.js](https://img.shields.io/badge/Next.js-EFF6FF?style=flat-square&logo=nextdotjs&logoColor=0d2137)
-![TypeScript](https://img.shields.io/badge/TypeScript-EFF6FF?style=flat-square&logo=typescript&logoColor=1565C0)
-![JavaScript](https://img.shields.io/badge/JavaScript-EFF6FF?style=flat-square&logo=javascript&logoColor=CA8A04)
-![HTML5](https://img.shields.io/badge/HTML5-EFF6FF?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-EFF6FF?style=flat-square&logo=css3&logoColor=1565C0)
+**Programming Languages**
 
-**Backend & AI**
-![Python](https://img.shields.io/badge/Python-EFF6FF?style=flat-square&logo=python&logoColor=1565C0)
-![Node.js](https://img.shields.io/badge/Node.js-EFF6FF?style=flat-square&logo=nodedotjs&logoColor=339933)
-![FastAPI](https://img.shields.io/badge/FastAPI-EFF6FF?style=flat-square&logo=fastapi&logoColor=009688)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-EFF6FF?style=flat-square&logo=openai&logoColor=0d2137)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MIPS Assembly](https://img.shields.io/badge/MIPS_Assembly-525252?style=for-the-badge&logoColor=white)
 
-**Data & Cloud**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EFF6FF?style=flat-square&logo=postgresql&logoColor=336791)
-![MongoDB](https://img.shields.io/badge/MongoDB-EFF6FF?style=flat-square&logo=mongodb&logoColor=4EA94B)
-![AWS](https://img.shields.io/badge/AWS-EFF6FF?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-EFF6FF?style=flat-square&logo=docker&logoColor=2496ED)
+**Frameworks & Environments**
 
----
+![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
-## Featured Projects
+**Cloud & Backend Infrastructure**
 
-| Project | Description | Stack | Stars |
-|---|---|---|---|
-| [**SunnyD NoteTaker**](https://github.com/SanjoyDat1/SunnyD_NoteTaker) | AI-powered notes — proactive assistant that reads, thinks, and improves your writing | JavaScript · AI/LLM | ⭐ 2 |
-| [**MLBotTrader**](https://github.com/SanjoyDat1/MLBotTrader) | ML stock trading bot · **beat the S&P 500 over an 8-year backtest** via sentiment analysis | Python · ML · Alpaca API | ⭐ 2 |
-| [**Visual Sorting Algorithms**](https://github.com/SanjoyDat1/VisualSortingAlgorithms) | Real-time beautiful visualization of core CS sorting algorithms | Python | — |
-| [**HomeBlend**](https://github.com/bareera-g/HomeBlend) | "Spotify Wrapped" for home-buying — turns property data into personal insights | JavaScript | ⭐ 1 |
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+
+**Development Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white)
 
 ---
 
