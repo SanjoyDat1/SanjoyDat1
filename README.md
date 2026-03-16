@@ -34,16 +34,6 @@ const sanjoy: Developer = {
 
 ---
 
-<div align="leading">
-
-
-<!-- Top Languages -->
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjoyDat1&layout=donut&langs_count=6&hide_border=true&bg_color=ffffff&title_color=1565C0&text_color=0d2137" />
-
-</div>
-
----
-
 ## Tech Stack
 
 **Programming Languages**
